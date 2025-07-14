@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: **Management Systems**  
 - 🌱 I’m learning: **FlutterFlow** and **WordPress**   
-- ⚡  Am always looking to build the next great thing. 
+- ⚡  Lets build the next great thing. 
 
 ---
 
