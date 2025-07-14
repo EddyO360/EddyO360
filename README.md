@@ -8,9 +8,8 @@
 ---
 
 - 🔭 I’m currently working on: **Management Systems**  
-- 🌱 I’m learning: **FlutterFlow** and **WordPress**  
-- 📫 Reach me at: **eddyoduor364@gmail.com**  
-- ⚡ Fun fact: **I'm a big nerd and proud of it 🤓**
+- 🌱 I’m learning: **FlutterFlow** and **WordPress**   
+- ⚡  Am always looking to build the next great thing. 
 
 ---
 
